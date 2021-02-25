@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { stringify } from '@angular/core/src/util';
 
 @Component({
     selector: 'app-todolist',
